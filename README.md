@@ -96,6 +96,7 @@ Embedded and mobile deep learning research notes
 
 1. [Midgard GPU Architecture](http://malideveloper.arm.com/downloads/ARM_Game_Developer_Days/PDFs/2-Mali-GPU-architecture-overview-and-tile-local-storage.pdf), [ARM Mali-T880 GPU](https://www.hotchips.org/wp-content/uploads/hc_archives/hc27/HC27.25-Tuesday-Epub/HC27.25.50-GPU-Epub/HC27.25.531-Mali-T880-Bratt-ARM-2015_08_23.pdf)
 
+1. 【Mobile GPU market share](https://hwstats.unity3d.com/mobile/gpu.html)
 
 ### Driver
 
