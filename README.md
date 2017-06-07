@@ -46,6 +46,7 @@ Embedded and mobile deep learning research notes
 
 1. [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary), [Intro](https://developer.arm.com/technologies/compute-library)
 
+1. [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
 ### OpenCL, Vulkan, RenderScript
 
