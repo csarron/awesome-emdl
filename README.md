@@ -51,6 +51,8 @@ Embedded and mobile deep learning research notes
 
 1. [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
+1. [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL)
+
 ### OpenCL, Vulkan, RenderScript
 
 1. [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan)
