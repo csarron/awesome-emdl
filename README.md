@@ -6,6 +6,8 @@ Embedded and mobile deep learning research notes
 
 ### Paper
 
+#### General
+
 1. [DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php) [MobiSys '17]
 
 1. [DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf) [MobiSys '17]
@@ -13,10 +15,6 @@ Embedded and mobile deep learning research notes
 1. [MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU](https://arxiv.org/abs/1706.00878) [EMDL '17]
 
 1. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) [arXiv '17, Google ]
-
-1. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) [ICLR'16 (oral)]
-
-1. [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/abs/1512.06473) [CVPR '16]
 
 1. [DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research) [WearSys '16]
 
@@ -33,6 +31,36 @@ Embedded and mobile deep learning research notes
 1. [An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf) [IoT-App ’15]
 
 1. [CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android](https://arxiv.org/abs/1511.07376) [MM '16]
+
+#### Quantization
+
+1. [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/abs/1611.05402) [ICML'17]
+1. [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/abs/1412.6115) [arXiv'14]
+1. [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/abs/1512.06473) [CVPR '16]
+1. [Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/abs/1512.01322) [ICASSP'16]
+1. [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/abs/1609.07061) [arXiv'16]
+1. [Loss-aware Binarization of Deep Networks](https://arxiv.org/abs/1611.01600) [ICLR'17]
+1. [Towards the Limit of Network Quantization](https://arxiv.org/abs/1612.01543) [ICLR'17]
+1. [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/abs/1702.00953) [CVPR'17]
+1. [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/abs/1706.02393) [arXiv'17]
+
+#### Pruning
+
+1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS'15]
+1. [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) [ICLR'17]
+1. [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440) [ICLR'17]
+1. [Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/abs/1702.04008) [ICLR'17]
+1. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) [ICLR'16]
+1. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) [NIPS'16]
+1. [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128) [arXiv'16]
+
+#### Low Rank Approximation
+
+1. [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229) [CVPR'15]
+1. [Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [arXiv'15]
+1. [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736) [NIPS'14]
+1. [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) [ICLR'16]
+
 
 ### Guide
 
@@ -107,3 +135,5 @@ Embedded and mobile deep learning research notes
 
 1. [Adreno] [csarron/qcom_vendor_binaries: Common Proprietary Qualcomm Binaries](https://github.com/csarron/qcom_vendor_binaries)
 1. [Mali] [Fevax/vendor_samsung_hero2ltexx: Blobs from s7 Edge G935F](https://github.com/Fevax/vendor_samsung_hero2ltexx)
+
+
