@@ -2,13 +2,15 @@
 
 Embedded and mobile deep learning research notes
 
-## Docs
+## Papers
 
-### Paper
-
-#### General
+### Model
 
 1. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083) [arXiv '17, Megvii]
+
+### System
+
+
 1. [DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php) [MobiSys '17]
 
 1. [DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf) [MobiSys '17]
@@ -33,7 +35,7 @@ Embedded and mobile deep learning research notes
 
 1. [CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android](https://arxiv.org/abs/1511.07376) [MM '16]
 
-#### Quantization
+### Quantization
 
 1. [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/abs/1611.05402) [ICML'17]
 1. [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/abs/1412.6115) [arXiv'14]
@@ -45,7 +47,7 @@ Embedded and mobile deep learning research notes
 1. [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/abs/1702.00953) [CVPR'17]
 1. [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/abs/1706.02393) [arXiv'17]
 
-#### Pruning
+### Pruning
 
 1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS'15]
 1. [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) [ICLR'17]
@@ -56,7 +58,7 @@ Embedded and mobile deep learning research notes
 1. [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128) [CVPR'17]
 1. [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342) [ICCV'17]
 
-#### Low Rank Approximation
+### Approximation
 
 1. [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229) [CVPR'15]
 1. [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798) (Extended version of above one)
@@ -64,17 +66,7 @@ Embedded and mobile deep learning research notes
 1. [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736) [NIPS'14]
 1. [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) [ICLR'16]
 
-
-### Guide
-
-1. [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
-1. [Deep Learning – Tutorial and Recent Trends](https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
-
-1. [Efficient Convolutional Neural Network Inference on Mobile GPUs](https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies)
-
-1. [Deep learning **systems**](http://dlsys.cs.washington.edu/schedule), UW course schedule(focused on systems design, not learning)
-
-## Code
+## Libraries
 
 ### General
 
@@ -84,7 +76,10 @@ Embedded and mobile deep learning research notes
 
 1. [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
 
+1. [Snapdragon Neural Processing Engine](https://developer.qualcomm.com/software/snapdragon-neural-processing-engine)
+
 1. [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL)
+
 
 ### OpenCL, Vulkan, RenderScript
 
@@ -106,7 +101,18 @@ Embedded and mobile deep learning research notes
 
 1. [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example)
 
-### Tutorial
+### Web
+
+1. [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
+
+
+## Tutorial
+
+1. [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
+
+1. [Deep Learning – Tutorial and Recent Trends](https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
+
+1. [Efficient Convolutional Neural Network Inference on Mobile GPUs](https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies)
 
 1. [ARM® Mali™ GPU OpenCL Developer Guide](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.100614_0303_00_en/ada1432742770595.html), [pdf](http://infocenter.arm.com/help/topic/com.arm.doc.100614_0303_00_en/arm_mali_gpu_opencl_developer_guide_100614_0303_00_en.pdf)
 
@@ -122,11 +128,12 @@ Embedded and mobile deep learning research notes
 
 1. [Better OpenCL Performance on Qualcomm Adreno GPU](https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization)
 
-### Others
+## Course
 
-1. [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
+1. [Deep learning **systems**](http://dlsys.cs.washington.edu/schedule), UW course schedule(focused on systems design, not learning)
 
-## Hardware
+
+## Tools
 
 ### GPU
 
