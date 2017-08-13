@@ -79,43 +79,37 @@ Embedded and mobile deep learning research notes
 
 1. [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL)
 
+1. [MXNet Amalgamation](https://github.com/dmlc/mxnet/tree/master/amalgamation)
 
-### OpenCL, Vulkan, RenderScript
-
-1. [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan)
-
-1. [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk)
-
-1. [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc)
-
-1. [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation)
-
-1. [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
-
-1. [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera)
-
-1. [mtmd/Mobile_ConvNet: RenderScript based implementation of Convolutional Neural Networks for Android phones](https://github.com/mtmd/Mobile_ConvNet)
-
-1. [harvardnlp/nmt-android: Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
-
-1. [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example)
+1. [TensorFlow on Android](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/android)
 
 ### Web
 
 1. [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 
 
-## Tutorial
+## Tutorials
+
+### General
 
 1. [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
 
 1. [Deep Learning – Tutorial and Recent Trends](https://www.dropbox.com/s/p7lvelt0aihrwtl/FPGA%2717%20tutorial%20Song%20Han.pdf?dl=0)
 
+1. [Tutorial on Hardware Architectures for Deep Neural Networks](http://eyeriss.mit.edu/tutorial.html)
+
+
 1. [Efficient Convolutional Neural Network Inference on Mobile GPUs](https://www.slideshare.net/embeddedvision/efficient-convolutional-neural-network-inference-on-mobile-gpus-a-presentation-from-imagination-technologies)
+
+### NEON
+
+1. [NEON™ Programmer’s Guide](https://developer.arm.com/docs/den0018/latest/neontm-version-10-programmers-guide)
+
+### OpenCL
 
 1. [ARM® Mali™ GPU OpenCL Developer Guide](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.100614_0303_00_en/ada1432742770595.html), [pdf](http://infocenter.arm.com/help/topic/com.arm.doc.100614_0303_00_en/arm_mali_gpu_opencl_developer_guide_100614_0303_00_en.pdf)
 
-1. [Optimal Compute on ARM MaliTM GPUs](http://www.cs.bris.ac.uk/home/simonm/montblanc/OpenCL_on_Mali.pdf)
+1. [Optimal Compute on ARM Mali™ GPUs](http://www.cs.bris.ac.uk/home/simonm/montblanc/OpenCL_on_Mali.pdf)
 
 1. [GPU Compute for Mobile Devices](http://www.iwocl.org/wp-content/uploads/iwocl-2014-workshop-Tim-Hartley.pdf)
 
@@ -127,9 +121,33 @@ Embedded and mobile deep learning research notes
 
 1. [Better OpenCL Performance on Qualcomm Adreno GPU](https://developer.qualcomm.com/blog/better-opencl-performance-qualcomm-adreno-gpu-memory-optimization)
 
-## Course
+## Courses
 
 1. [Deep learning **systems**](http://dlsys.cs.washington.edu/schedule), UW course schedule(focused on systems design, not learning)
+
+## Demos
+
+## General
+
+1. [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
+
+1. [TensorFlow iOS Example](https://github.com/hollance/TensorFlow-iOS-Example)
+
+1. [Caffe2 AICamera](https://github.com/bwasti/AICamera)
+
+### Vulkan
+
+1. [Vulkan API Examples and Demos](https://github.com/SaschaWillems/Vulkan)
+
+1. [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
+
+### OpenCL
+
+1. [DeepMon](https://github.com/JC1DA/DeepMon)
+
+### RenderScript
+
+1. [Mobile_ConvNet: RenderScript CNN for Android](https://github.com/mtmd/Mobile_ConvNet)
 
 
 ## Tools
