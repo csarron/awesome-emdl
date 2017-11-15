@@ -75,6 +75,8 @@ Embedded and mobile deep learning research notes
 
 1. [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
+1. [Bender](github.com/xmartlabs/Bender)
+
 1. [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
 
 1. [Snapdragon Neural Processing Engine](https://developer.qualcomm.com/software/snapdragon-neural-processing-engine)
