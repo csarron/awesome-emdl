@@ -71,13 +71,15 @@ Embedded and mobile deep learning research notes
 
 ### General
 
+1. [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
+
+1. [baidu/mobile-deep-learning: This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed.](https://github.com/baidu/mobile-deep-learning)
+
 1. [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary), [Intro](https://developer.arm.com/technologies/compute-library)
 
 1. [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
-1. [Bender](github.com/xmartlabs/Bender)
-
-1. [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
+1. [xmartlabs/Bender: Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.](https://github.com/xmartlabs/Bender)
 
 1. [Snapdragon Neural Processing Engine](https://developer.qualcomm.com/software/snapdragon-neural-processing-engine)
 
