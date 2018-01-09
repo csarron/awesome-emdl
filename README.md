@@ -89,6 +89,10 @@ Embedded and mobile deep learning research notes
 
 1. [TensorFlow on Android](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/android)
 
+1. [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/)
+
+1. [OAID/Tengine: Tengine is a lite, high performance, modular inference engine for embedded device](https://github.com/OAID/Tengine)
+
 ### Web
 
 1. [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
