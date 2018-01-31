@@ -10,7 +10,7 @@ Embedded and mobile deep learning research notes
 
 ### Model
 
-1. [DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices](https://arxiv.org/abs/1708.04728) [arXiv '17, Samsung]
+1. [DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices](https://arxiv.org/abs/1708.04728) [AAAI'18, Samsung]
 
 1. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083) [arXiv '17, Megvii]
 
