@@ -6,6 +6,11 @@ Embedded and mobile deep learning research notes
 
 ### Model
 
+1. [MobilenetV2: Inverted Residuals and Linear Bottlenecks: Mobile Networks for
+Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf) [arXiv '18, Google]
+
+1. [NasNet: Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf) [arXiv '17, Google]
+
 1. [DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices](https://arxiv.org/abs/1708.04728) [arXiv '17, Samsung]
 
 1. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083) [arXiv '17, Megvii]
