@@ -4,6 +4,10 @@ Embedded and mobile deep learning research notes
 
 ## Papers
 
+### Survey
+
+1. [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/abs/1710.09282) [arXiv '17]
+
 ### Model
 
 1. [MobilenetV2: Inverted Residuals and Linear Bottlenecks: Mobile Networks for
@@ -11,11 +15,13 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 1. [NasNet: Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf) [arXiv '17, Google]
 
-1. [DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices](https://arxiv.org/abs/1708.04728) [arXiv '17, Samsung]
+1. [DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices](https://arxiv.org/abs/1708.04728) [AAAI'18, Samsung]
 
 1. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083) [arXiv '17, Megvii]
 
 1. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) [arXiv '17, Google]
+
+1. [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/abs/1711.09224) [arXiv '17]
 
 ### System
 
