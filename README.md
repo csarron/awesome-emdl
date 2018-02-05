@@ -104,6 +104,8 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 1. [OAID/Tengine: Tengine is a lite, high performance, modular inference engine for embedded device](https://github.com/OAID/Tengine)
 
+1. [RSTensorFlow: GPU Accelerated TensorFlow for Commodity Android Devices](https://nesl.github.io/RSTensorFlow/)
+
 ### Web
 
 1. [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
