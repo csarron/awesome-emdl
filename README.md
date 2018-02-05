@@ -58,6 +58,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [Towards the Limit of Network Quantization](https://arxiv.org/abs/1612.01543) [ICLR'17]
 1. [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/abs/1702.00953) [CVPR'17]
 1. [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/abs/1706.02393) [arXiv'17]
+1. [Training and Inference with Integers in Deep Neural Networks](https://openreview.net/forum?id=HJGXzmspb) [ICLR'18]
 
 ### Pruning
 
@@ -69,6 +70,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) [NIPS'16]
 1. [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128) [CVPR'17]
 1. [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342) [ICCV'17]
+1. [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878) [ICLR'18]
 
 ### Approximation
 
