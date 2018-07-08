@@ -92,6 +92,8 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### General
 
+1. [XiaoMi/mace: MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.](https://github.com/XiaoMi/mace)
+
 1. [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
 
 1. [baidu/mobile-deep-learning: This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed.](https://github.com/baidu/mobile-deep-learning)
