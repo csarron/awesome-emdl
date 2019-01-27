@@ -110,7 +110,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 1. [MXNet Amalgamation](https://github.com/dmlc/mxnet/tree/master/amalgamation)
 
-1. [TensorFlow on Android](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/android)
+1. [TensorFlow Lite GPU](https://www.tensorflow.org/lite/performance/gpu)
 
 1. [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/)
 
