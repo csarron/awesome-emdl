@@ -84,8 +84,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [High performance ultra-low-precision convolutions on mobile devices](https://arxiv.org/abs/1712.02427) [NIPS'17]
 
 ### Characterization
-
-1. [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/abs/1804.03230) [arXiv'18, Google]
+1. [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/abs/1804.03230) [ECCV 2018]
 1. [Latency and Throughput Characterization of Convolutional Neural Networks for Mobile Computer Vision](https://arxiv.org/abs/1803.09492) [MMSys’18]
 
 ## Libraries
