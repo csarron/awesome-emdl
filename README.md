@@ -91,31 +91,37 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ## Libraries
 
-### General
-
-1. [XiaoMi/mace: MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.](https://github.com/XiaoMi/mace)
-
-1. [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
-
-1. [baidu/mobile-deep-learning: This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed.](https://github.com/baidu/mobile-deep-learning)
-
-1. [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary), [Intro](https://developer.arm.com/technologies/compute-library)
-
-1. [Apple CoreML](https://developer.apple.com/documentation/coreml)
-
-1. [xmartlabs/Bender: Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.](https://github.com/xmartlabs/Bender)
-
-1. [Snapdragon Neural Processing Engine](https://developer.qualcomm.com/software/snapdragon-neural-processing-engine)
-
-1. [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL)
-
-1. [MXNet Amalgamation](https://github.com/dmlc/mxnet/tree/master/amalgamation)
+### Inference Framework
 
 1. [TensorFlow Lite GPU](https://www.tensorflow.org/lite/performance/gpu)
 
 1. [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/)
 
+1. [XiaoMi/mace: MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.](https://github.com/XiaoMi/mace)
+
+1. [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
+
+1. [baidu/paddle-mobile](https://github.com/PaddlePaddle/paddle-mobile)
+
+1. [Apple CoreML](https://developer.apple.com/documentation/coreml)
+
+1. [Snapdragon Neural Processing Engine](https://developer.qualcomm.com/software/snapdragon-neural-processing-engine)
+
+1. [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary), [Intro](https://developer.arm.com/technologies/compute-library)
+
+1. [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL)
+
+1. [MXNet Amalgamation](https://github.com/dmlc/mxnet/tree/master/amalgamation)
+
 1. [OAID/Tengine: Tengine is a lite, high performance, modular inference engine for embedded device](https://github.com/OAID/Tengine)
+
+1. [xmartlabs/Bender: Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.](https://github.com/xmartlabs/Bender)
+
+### Optimization Tools
+
+1. [An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications](https://github.com/Tencent/PocketFlow)
+
+### Research Demos
 
 1. [RSTensorFlow: GPU Accelerated TensorFlow for Commodity Android Devices](https://nesl.github.io/RSTensorFlow/)
 
