@@ -51,6 +51,8 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Quantization
 
+1. [LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks](https://arxiv.org/pdf/1807.10029.pdf) [ECCV'18]
+
 1. [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/abs/1611.05402) [ICML'17]
 1. [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/abs/1412.6115) [arXiv'14]
 1. [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/abs/1512.06473) [CVPR '16]
