@@ -10,6 +10,8 @@ Embedded and mobile deep learning research notes
 
 ### Model
 
+1. [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)[arXiv '19, Google]
+
 1. [MobilenetV2: Inverted Residuals and Linear Bottlenecks: Mobile Networks for
 Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf) [arXiv '18, Google]
 
