@@ -101,6 +101,8 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Inference Framework
 
+1. [alibaba/MNN](https://github.com/alibaba/MNN)
+
 1. [TensorFlow Lite GPU](https://www.tensorflow.org/lite/performance/gpu)
 
 1. [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/)
