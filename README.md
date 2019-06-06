@@ -68,6 +68,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Pruning
 
+1. [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [CVPR'19]
 1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS'15]
 1. [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) [ICLR'17]
 1. [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440) [ICLR'17]
