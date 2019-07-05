@@ -127,6 +127,8 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 1. [xmartlabs/Bender: Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.](https://github.com/xmartlabs/Bender)
 
+1. [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn)
+
 ### Optimization Tools
 
 1. [An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications](https://github.com/Tencent/PocketFlow)
