@@ -6,6 +6,7 @@ Embedded and mobile deep learning research notes
 
 ### Survey
 
+1. [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)
 1. [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/abs/1710.09282) [arXiv '17]
 
 ### Model
@@ -70,6 +71,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Pruning
 
+1. [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 1. [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [CVPR'19]
 1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS'15]
 1. [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) [ICLR'17]
