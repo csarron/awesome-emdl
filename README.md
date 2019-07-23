@@ -133,6 +133,8 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Optimization Tools
 
+1. [Neural Network Distiller](https://github.com/NervanaSystems/distiller)
+
 1. [An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications](https://github.com/Tencent/PocketFlow)
 
 ### Research Demos
