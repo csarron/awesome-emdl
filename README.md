@@ -115,6 +115,8 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 1. [baidu/paddle-mobile](https://github.com/PaddlePaddle/paddle-mobile)
 
+1. [BERT and GPT-2 on iPhone](https://github.com/huggingface/swift-coreml-transformers)
+
 1. [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
 1. [Snapdragon Neural Processing Engine](https://developer.qualcomm.com/software/snapdragon-neural-processing-engine)
