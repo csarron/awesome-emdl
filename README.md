@@ -183,7 +183,9 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ## Courses
 
-1. [Deep learning **systems**](http://dlsys.cs.washington.edu/schedule), UW course schedule(focused on systems design, not learning)
+1. [UW Deep learning **systems**](http://dlsys.cs.washington.edu/schedule)
+
+1. [Berkeley Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)
 
 ## Demos
 
