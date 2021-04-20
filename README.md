@@ -1,6 +1,6 @@
 # EMDL
 
-Embedded and mobile deep learning research notes
+Embedded and mobile deep learning research notes.
 
 ## Papers
 
@@ -8,6 +8,7 @@ Embedded and mobile deep learning research notes
 
 1. [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)
 1. [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/abs/1710.09282) [arXiv '17]
+1. [Awesome ML Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression)
 
 ### Model
 
@@ -228,3 +229,12 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [Mali] [Fevax/vendor_samsung_hero2ltexx: Blobs from s7 Edge G935F](https://github.com/Fevax/vendor_samsung_hero2ltexx)
 
 
+## Related Repos
++ [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs) by @MingSun-Tse ![GitHub stars](https://img.shields.io/github/stars/MingSun-Tse/EfficientDNNs?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/MingSun-Tse/EfficientDNNs.svg)
++ [Awesome ML Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression) by @cedrickchee ![GitHub stars](https://img.shields.io/github/stars/cedrickchee/awesome-ml-model-compression?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/cedrickchee/awesome-ml-model-compression.svg)
++ [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) by @he-y ![GitHub stars](https://img.shields.io/github/stars/cedrickchee/awesome-ml-model-compression?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/cedrickchee/awesome-ml-model-compression.svg)
++ [Model Compression](https://github.com/j-marple-dev/model_compression) by @j-marple-dev ![GitHub stars](https://img.shields.io/github/stars/j-marple-dev/model_compression?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/j-marple-dev/model_compression.svg)
++ [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models) by @guan-yuan ![GitHub stars](https://img.shields.io/github/stars/guan-yuan/awesome-AutoML-and-Lightweight-Models?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/guan-yuan/awesome-AutoML-and-Lightweight-Models.svg)
++ [knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) by @lhyfst ![GitHub stars](https://img.shields.io/github/stars/lhyfst/knowledge-distillation-papers?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/lhyfst/knowledge-distillation-papers.svg)
++ [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration) by @memoiry ![GitHub stars](https://img.shields.io/github/stars/memoiry/Awesome-model-compression-and-acceleration?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/memoiry/Awesome-model-compression-and-acceleration.svg)
++ [Embedded Neural Network](https://github.com/ZhishengWang/Embedded-Neural-Network) by @ZhishengWang![GitHub stars](https://img.shields.io/github/stars/ZhishengWang/Embedded-Neural-Network?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ZhishengWang/Embedded-Neural-Network.svg)
