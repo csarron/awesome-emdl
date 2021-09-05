@@ -16,6 +16,9 @@ Embedded and mobile deep learning research notes.
 
 ### Model
 
+1. [SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems](https://proceedings.mlsys.org/papers/2020/86) [MLSys '20, IBM]
+1. [Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) [arXiv '20, Huawei]
+1. [GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [arXiv '19, Huawei]
 1. [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) [arXiv '19, Google]
 1. [MobilenetV2: Inverted Residuals and Linear Bottlenecks: Mobile Networks for
 Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf) [arXiv '18, Google]
