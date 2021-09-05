@@ -15,6 +15,7 @@ Embedded and mobile deep learning research notes.
 1. [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/abs/1710.09282) [arXiv '17]
 
 ### Model
+
 1. [SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems](https://proceedings.mlsys.org/papers/2020/86) [MLSys '20, IBM]
 1. [Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) [arXiv '20, Huawei]
 1. [GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [arXiv '19, Huawei]
