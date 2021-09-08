@@ -8,7 +8,10 @@ Embedded and mobile deep learning research notes.
 
 1. [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs) [Repo]
 1. [Awesome ML Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression) [Repo]
+1. [TinyML Papers and Projects](https://github.com/gigwegbe/tinyml-papers-and-projects) [Repo]
+1. [TinyML Benchmark: Executing Fully Connected Neural Networks on Commodity Microcontrollers](https://aran.library.nuigalway.ie/handle/10379/16770) [IEEE '21]
 1. [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962) [arXiv '21]
+1. [Benchmarking TinyML Systems: Challenges and Direction](https://arxiv.org/abs/2003.04821) [arXiv '20]
 1. [Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731) [IEEE '20]
 1. [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794) [arXiv '20]
 1. [Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://arxiv.org/abs/1802.00939) [arXiv '18]
@@ -18,10 +21,12 @@ Embedded and mobile deep learning research notes.
 
 1. [SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems](https://proceedings.mlsys.org/papers/2020/86) [MLSys '20, IBM]
 1. [Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) [arXiv '20, Huawei]
+1. [Once for All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791) [arXiv '19, MIT]
 1. [GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [arXiv '19, Huawei]
 1. [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) [arXiv '19, Google]
 1. [MobilenetV2: Inverted Residuals and Linear Bottlenecks: Mobile Networks for
 Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf) [arXiv '18, Google]
+1. [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332) [arXiv '18, MIT]
 1. [DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices](https://arxiv.org/abs/1708.04728) [AAAI'18, Samsung]
 1. [NasNet: Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf) [arXiv '17, Google]
 1. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083) [arXiv '17, Megvii]
