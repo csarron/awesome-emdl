@@ -9,6 +9,9 @@ Embedded and mobile deep learning research notes.
 1. [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs) [Repo]
 1. [Awesome ML Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression) [Repo]
 1. [TinyML Papers and Projects](https://github.com/gigwegbe/tinyml-papers-and-projects) [Repo]
+1. [TinyML Platforms Benchmarking](https://arxiv.org/abs/2112.01319) [arXiv '21]
+1. [TinyML: A Systematic Review and Synthesis of Existing Research](https://ieeexplore.ieee.org/abstract/document/9722636) [ICAIIC '21]
+1. [TinyML Meets IoT: A Comprehensive Survey](https://www.sciencedirect.com/science/article/abs/pii/S2542660521001025) [Internet of Things '21]
 1. [A review on TinyML: State-of-the-art and prospects](https://www.sciencedirect.com/science/article/pii/S1319157821003335) [Journal of King Saud Univ. '21]
 1. [TinyML Benchmark: Executing Fully Connected Neural Networks on Commodity Microcontrollers](https://aran.library.nuigalway.ie/handle/10379/16770) [IEEE '21]
 1. [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962) [arXiv '21]
@@ -20,12 +23,11 @@ Embedded and mobile deep learning research notes.
 
 ### Model
 
+1. [EtinyNet: Extremely Tiny Network for TinyML](https://www.aaai.org/AAAI22Papers/AAAI-4889.XuK.pdf) [AAAI '21]
 1. [MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning](https://arxiv.org/abs/2110.15352) [NeurIPS '21, MIT]
 1. [SkyNet: a Hardware-Efficient Method for Object Detection and Tracking on Embedded Systems](https://proceedings.mlsys.org/papers/2020/86) [MLSys '20, IBM]
 1. [Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) [NeurIPS '20, Huawei]
 1. [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/abs/2007.10319) [NeurIPS '20, MIT]
-1. [TinyTL: Reduce Activations, Not Trainable Parameters for Efficient On-Device Learning](https://arxiv.org/abs/2007.11622) [NeurIPS '20, MIT]
-1. [Once for All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791) [ICLR '20, MIT]
 1. [GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [CVPR '20, Huawei]
 1. [MicroNet for Efficient Language Modeling](https://arxiv.org/abs/2005.07877) [NeurIPS '19, MIT]
 1. [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) [ICCV '19, Google]
@@ -40,9 +42,16 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### System
 
+1. [BSC: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML](https://arxiv.org/pdf/2111.06686.pdf?ref=https://githubhelp.com) [ASP-DAC '22]
+1. [CFU Playground: Full-Stack Open-Source Framework for Tiny Machine Learning (tinyML) Acceleration on FPGAs](https://arxiv.org/abs/2201.01863) [arXiv '22, Google]
+1. [UDC: Unified DNAS for Compressible TinyML Models](https://arxiv.org/abs/2201.05842) [arXiv '22, Arm]
+1. [AnalogNets: ML-HW Co-Design of Noise-robust TinyML Models and Always-On Analog Compute-in-Memory Accelerator](https://arxiv.org/abs/2111.06503) [arXiv '21, Arm]
+1. [TinyTL: Reduce Activations, Not Trainable Parameters for Efficient On-Device Learning](https://arxiv.org/abs/2007.11622) [NeurIPS '20, MIT]
+1. [Once for All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791) [ICLR '20, MIT]
 1. [DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php) [MobiSys '17]
 1. [DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf) [MobiSys '17]
 1. [MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU](https://arxiv.org/abs/1706.00878) [EMDL '17]
+1. [fpgaConvNet: A Toolflow for Mapping Diverse Convolutional Neural Networks on Embedded FPGAs](https://arxiv.org/abs/1711.08740) [NIPS '17]
 1. [DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research) [WearSys '16]
 1. [DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices](http://niclane.org/pubs/deepx_ipsn.pdf) [IPSN '16]
 1. [EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/abs/1602.01528) [ISCA '16]
@@ -51,45 +60,44 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](http://niclane.org/pubs/sparsesep_sensys.pdf) [SenSys ’16]
 1. [An Early Resource Characterization of Deep Learning on Wearables, Smartphones and Internet-of-Things Devices](http://niclane.org/pubs/iotapp15_early.pdf) [IoT-App ’15]
 1. [CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android](https://arxiv.org/abs/1511.07376) [MM '16]
-1. [fpgaConvNet: A Toolflow for Mapping Diverse Convolutional Neural Networks on Embedded FPGAs](https://arxiv.org/abs/1711.08740) [NIPS '17]
 
 ### Quantization
 
 1. [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342) [arXiv '18]
 1. [LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks](https://arxiv.org/pdf/1807.10029.pdf) [ECCV'18]
+1. [Training and Inference with Integers in Deep Neural Networks](https://openreview.net/forum?id=HJGXzmspb) [ICLR'18]
 1. [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/abs/1611.05402) [ICML'17]
-1. [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/abs/1412.6115) [arXiv'14]
-1. [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/abs/1512.06473) [CVPR '16]
-1. [Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/abs/1512.01322) [ICASSP'16]
-1. [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/abs/1609.07061) [arXiv'16]
 1. [Loss-aware Binarization of Deep Networks](https://arxiv.org/abs/1611.01600) [ICLR'17]
 1. [Towards the Limit of Network Quantization](https://arxiv.org/abs/1612.01543) [ICLR'17]
 1. [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/abs/1702.00953) [CVPR'17]
 1. [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/abs/1706.02393) [arXiv'17]
-1. [Training and Inference with Integers in Deep Neural Networks](https://openreview.net/forum?id=HJGXzmspb) [ICLR'18]
+1. [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/abs/1512.06473) [CVPR '16]
+1. [Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/abs/1512.01322) [ICASSP'16]
+1. [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/abs/1609.07061) [arXiv'16]
+1. [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/abs/1412.6115) [arXiv'14]
 
 ### Pruning
 
 1. [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) [Repo]
 1. [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [CVPR'19]
-1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS'15]
+1. [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878) [ICLR'18]
 1. [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) [ICLR'17]
 1. [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440) [ICLR'17]
 1. [Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/abs/1702.04008) [ICLR'17]
-1. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) [ICLR'16]
-1. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) [NIPS'16]
 1. [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128) [CVPR'17]
 1. [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342) [ICCV'17]
-1. [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878) [ICLR'18]
+1. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) [ICLR'16]
+1. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) [NIPS'16]
+1. [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [NIPS'15]
 
 ### Approximation
 
+1. [High performance ultra-low-precision convolutions on mobile devices](https://arxiv.org/abs/1712.02427) [NIPS'17]
+1. [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) [ICLR'16]
 1. [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229) [CVPR'15]
 1. [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798) (Extended version of above one)
 1. [Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [arXiv'15]
 1. [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736) [NIPS'14]
-1. [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530) [ICLR'16]
-1. [High performance ultra-low-precision convolutions on mobile devices](https://arxiv.org/abs/1712.02427) [NIPS'17]
 
 ### Characterization
 
@@ -102,21 +110,24 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Inference Framework
 
-1. [alibaba/MNN](https://github.com/alibaba/MNN)
-1. [TensorFlow Lite GPU](https://www.tensorflow.org/lite/performance/gpu)
-1. [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/)
-1. [XiaoMi/mace: MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.](https://github.com/XiaoMi/mace)
-1. [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
-1. [baidu/paddle-mobile](https://github.com/PaddlePaddle/paddle-mobile)
-1. [BERT and GPT-2 on iPhone](https://github.com/huggingface/swift-coreml-transformers)
-1. [Apple CoreML](https://developer.apple.com/documentation/coreml)
-1. [Snapdragon Neural Processing Engine](https://developer.qualcomm.com/software/snapdragon-neural-processing-engine)
-1. [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary), [Intro](https://developer.arm.com/technologies/compute-library)
-1. [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL)
-1. [MXNet Amalgamation](https://github.com/dmlc/mxnet/tree/master/amalgamation)
+1. [TensorFlow Lite](https://www.tensorflow.org/lite/performance/gpu): **TensorFlow Lite** is an open source deep learning framework for on-device inference.
+1. [PyTorch Mobile](https://pytorch.org/mobile/home/): **PyTorch Mobile** is a new framework for helping mobile developers and machine learning engineers embed PyTorch ML models on-device.
+1. [The Arm's ComputeLibrary framework](https://github.com/ARM-software/ComputeLibrary): **ComputeLibrary** is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. [Intro](https://developer.arm.com/technologies/compute-library)
+1. [The Alibaba's MNN framework](https://github.com/alibaba/MNN): **MNN** is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
+1. [The XiaoMi's Mace framework](https://github.com/XiaoMi/mace): **MACE** is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
+1. [The Tencent's ncnn framework](https://github.com/Tencent/ncnn): **ncnn** is a high-performance neural network inference framework optimized for the mobile platform.
+1. [The Baidu's Paddle Lite framework](https://github.com/PaddlePaddle/Paddle-Lite): **Paddle Lite** is multi-platform high performance deep learning inference engine.
 1. [OAID/Tengine: Tengine is a lite, high performance, modular inference engine for embedded device](https://github.com/OAID/Tengine)
 1. [xmartlabs/Bender: Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.](https://github.com/xmartlabs/Bender)
-1. [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn)
+1. [dabnn - JDAI Computer Vision](https://github.com/JDAI-CV/dabnn): **dabnn** is an accelerated binary neural networks inference framework for mobile platform.
+1. [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
+1. [The Microsoft's ELL framework](https://github.com/Microsoft/ELL): **ELL** allows you to design and deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers, like Raspberry Pi, Arduino, and micro:bit. 
+1. [The Apple's CoreML framework](https://developer.apple.com/documentation/coreml): **CoreML** is integrate machine learning models into your app.
+1. [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit): **DeepLearningKit** is Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
+1. [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
+1. [Edge Impulse](https://edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
+1. [BERT and GPT-2 on iPhone](https://github.com/huggingface/swift-coreml-transformers)
+1. [MXNet Amalgamation](https://github.com/dmlc/mxnet/tree/master/amalgamation)
 
 ### Optimization Tools
 
@@ -131,6 +142,31 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 1. [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 
+## General
+
+1. [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
+1. [TensorFlow iOS Example](https://github.com/hollance/TensorFlow-iOS-Example)
+1. [Caffe2 AICamera](https://github.com/bwasti/AICamera)
+
+### Edge / Tiny MLOps
+
+1. [TinyMLOps: Operational Challenges for Widespread Edge AI Adoption](https://arxiv.org/pdf/2203.10923.pdf) [arXiv' 22]
+1. [SOLIS: The MLOps journey from data acquisition to actionable insights](https://arxiv.org/abs/2112.11925) [arXiv' 21]
+1. [Edge MLOps: An Automation Framework for AIoT Applications](https://www.computer.org/csdl/proceedings-article/ic2e/2021/497000a191/1yJZ8cHPTkQ) [IC2E '21]
+1. [SensiX++: Bringing MLOPs and Multi-tenant Model Serving to Sensory Edge Devices](https://arxiv.org/abs/2109.03947) [arXiv' 21, Nokia]
+
+### Vulkan
+
+1. [Vulkan API Examples and Demos](https://github.com/SaschaWillems/Vulkan)
+1. [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
+
+### OpenCL
+
+1. [DeepMon](https://github.com/JC1DA/DeepMon)
+
+### RenderScript
+
+1. [Mobile_ConvNet: RenderScript CNN for Android](https://github.com/mtmd/Mobile_ConvNet)
 
 ## Tutorials
 
@@ -159,25 +195,6 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 1. [UW Deep learning **systems**](http://dlsys.cs.washington.edu/schedule)
 1. [Berkeley Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)
-
-## General
-
-1. [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
-1. [TensorFlow iOS Example](https://github.com/hollance/TensorFlow-iOS-Example)
-1. [Caffe2 AICamera](https://github.com/bwasti/AICamera)
-
-### Vulkan
-
-1. [Vulkan API Examples and Demos](https://github.com/SaschaWillems/Vulkan)
-1. [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
-
-### OpenCL
-
-1. [DeepMon](https://github.com/JC1DA/DeepMon)
-
-### RenderScript
-
-1. [Mobile_ConvNet: RenderScript CNN for Android](https://github.com/mtmd/Mobile_ConvNet)
 
 
 ## Tools
