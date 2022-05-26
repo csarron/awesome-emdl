@@ -150,10 +150,12 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Edge / Tiny MLOps
 
-1. [TinyMLOps: Operational Challenges for Widespread Edge AI Adoption](https://arxiv.org/pdf/2203.10923.pdf) [arXiv' 22]
-1. [SOLIS: The MLOps journey from data acquisition to actionable insights](https://arxiv.org/abs/2112.11925) [arXiv' 21]
+1. [MLOps for TinyML: Challenges & Directions in Operationalizing TinyML at Scale](https://cms.tinyml.org/wp-content/uploads/talks2022/tinyML_Talks_Vijay_Janapa_Reddi_220524.pdf) [TinyML Talks '22]
+1. [TinyMLOps: Operational Challenges for Widespread Edge AI Adoption](https://arxiv.org/pdf/2203.10923.pdf) [arXiv '22]
+1. [A TinyMLaaS Ecosystem for Machine Learning in IoT: Overview and Research Challenges](https://ieeexplore.ieee.org/document/9427352) [VLSI-DAT '21]
+1. [SOLIS: The MLOps journey from data acquisition to actionable insights](https://arxiv.org/abs/2112.11925) [arXiv '21]
 1. [Edge MLOps: An Automation Framework for AIoT Applications](https://www.computer.org/csdl/proceedings-article/ic2e/2021/497000a191/1yJZ8cHPTkQ) [IC2E '21]
-1. [SensiX++: Bringing MLOPs and Multi-tenant Model Serving to Sensory Edge Devices](https://arxiv.org/abs/2109.03947) [arXiv' 21, Nokia]
+1. [SensiX++: Bringing MLOPs and Multi-tenant Model Serving to Sensory Edge Devices](https://arxiv.org/abs/2109.03947) [arXiv '21, Nokia]
 
 ### Vulkan
 
