@@ -150,6 +150,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Edge / Tiny MLOps
 
+1. [Tiny-MLOps: a framework for orchestrating ML applications at the far edge of IoT systems](https://ieeexplore.ieee.org/document/9787703) [EAIS 2022]
 1. [MLOps for TinyML: Challenges & Directions in Operationalizing TinyML at Scale](https://cms.tinyml.org/wp-content/uploads/talks2022/tinyML_Talks_Vijay_Janapa_Reddi_220524.pdf) [TinyML Talks '22]
 1. [TinyMLOps: Operational Challenges for Widespread Edge AI Adoption](https://arxiv.org/pdf/2203.10923.pdf) [arXiv '22]
 1. [A TinyMLaaS Ecosystem for Machine Learning in IoT: Overview and Research Challenges](https://ieeexplore.ieee.org/document/9427352) [VLSI-DAT '21]
