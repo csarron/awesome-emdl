@@ -110,22 +110,22 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ### Inference Framework
 
-1. [TensorFlow Lite](https://www.tensorflow.org/lite/performance/gpu): **TensorFlow Lite** is an open source deep learning framework for on-device inference.
-1. [PyTorch Mobile](https://pytorch.org/mobile/home/): **PyTorch Mobile** is a new framework for helping mobile developers and machine learning engineers embed PyTorch ML models on-device.
-1. [The Arm's ComputeLibrary framework](https://github.com/ARM-software/ComputeLibrary): **ComputeLibrary** is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. [Intro](https://developer.arm.com/technologies/compute-library)
-1. [The Alibaba's MNN framework](https://github.com/alibaba/MNN): **MNN** is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
-1. [The XiaoMi's Mace framework](https://github.com/XiaoMi/mace): **MACE** is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
-1. [The Tencent's ncnn framework](https://github.com/Tencent/ncnn): **ncnn** is a high-performance neural network inference framework optimized for the mobile platform.
-1. [The Baidu's Paddle Lite framework](https://github.com/PaddlePaddle/Paddle-Lite): **Paddle Lite** is multi-platform high performance deep learning inference engine.
-1. [OAID/Tengine: Tengine is a lite, high performance, modular inference engine for embedded device](https://github.com/OAID/Tengine)
-1. [xmartlabs/Bender: Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.](https://github.com/xmartlabs/Bender)
-1. [dabnn - JDAI Computer Vision](https://github.com/JDAI-CV/dabnn): **dabnn** is an accelerated binary neural networks inference framework for mobile platform.
+1. [TensorFlow Lite](https://www.tensorflow.org/lite/performance/gpu) - is an open source deep learning framework for on-device inference.
+1. [PyTorch Mobile](https://pytorch.org/mobile/home) - is a new framework for helping mobile developers and machine learning engineers embed PyTorch ML models on-device.
+1. [Arm - ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. [Intro](https://developer.arm.com/technologies/compute-library)
+1. [Alibaba - MNN](https://github.com/alibaba/MNN) - is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
+1. [XiaoMi - Mace](https://github.com/XiaoMi/mace) - is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
+1. [Tencent - ncnn](https://github.com/Tencent/ncnn) - is a high-performance neural network inference framework optimized for the mobile platform.
+1. [Microsoft - ELL](https://github.com/Microsoft/ELL) - allows you to design and deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers, like Raspberry Pi, Arduino, and micro:bit. 
+1. [Apple - CoreML](https://developer.apple.com/documentation/coreml) - is integrate machine learning models into your app.
+1. [Baidu - Paddle Lite](https://github.com/PaddlePaddle/Paddle-Lite) - is multi-platform high performance deep learning inference engine.
+1. [OAID - Tengine](https://github.com/OAID/Tengine) - is a lite, high performance, modular inference engine for embedded device
+1. [xmartlabs - Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
+1. [JDAI Computer Vision - dabnn](https://github.com/JDAI-CV/dabnn) - is an accelerated binary neural networks inference framework for mobile platform.
 1. [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
-1. [The Microsoft's ELL framework](https://github.com/Microsoft/ELL): **ELL** allows you to design and deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers, like Raspberry Pi, Arduino, and micro:bit. 
-1. [The Apple's CoreML framework](https://developer.apple.com/documentation/coreml): **CoreML** is integrate machine learning models into your app.
-1. [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit): **DeepLearningKit** is Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
+1. [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit) - is Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
 1. [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
-1. [Edge Impulse](https://edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
+1. [Edge Impulse](https://edgeimpulse.com) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
 1. [BERT and GPT-2 on iPhone](https://github.com/huggingface/swift-coreml-transformers)
 1. [MXNet Amalgamation](https://github.com/dmlc/mxnet/tree/master/amalgamation)
 
