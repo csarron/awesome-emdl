@@ -147,9 +147,11 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 
 ## General
 
+1. [Caffe2 AICamera](https://github.com/bwasti/AICamera)
 1. [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
 1. [TensorFlow iOS Example](https://github.com/hollance/TensorFlow-iOS-Example)
-1. [Caffe2 AICamera](https://github.com/bwasti/AICamera)
+1. [TensorFlow OpenMV Camera Module](https://github.com/openmv/openmv)
+
 
 ### Edge / Tiny MLOps
 
