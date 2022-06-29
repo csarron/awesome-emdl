@@ -126,24 +126,24 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [Microsoft - ONNX RUntime](https://github.com/microsoft/onnxruntime) - cross-platform, high performance ML inferencing and training accelerator.
 1. [Nvidia - TensorRT](https://github.com/NVIDIA/TensorRT) - is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 1. [OAID - Tengine](https://github.com/OAID/Tengine) - is a lite, high performance, modular inference engine for embedded device
+1. [Qualcomm - Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
 1. [Tencent - ncnn](https://github.com/Tencent/ncnn) - is a high-performance neural network inference framework optimized for the mobile platform.
 1. [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 1. [XiaoMi - Mace](https://github.com/XiaoMi/mace) - is a deep learning inference framework optimized for mobile heterogeneous computing platforms. 
 1. [xmartlabs - Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
-1. [Qualcomm - Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
 
 ### Optimization Tools
 
-1. [Neural Network Distiller](https://github.com/NervanaSystems/distiller)
-1. [An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications](https://github.com/Tencent/PocketFlow)
+1. [Neural Network Distiller](https://github.com/NervanaSystems/distiller) -  Python package for neural network compression research.
+1. [PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.
 
 ### Research Demos
 
-1. [RSTensorFlow: GPU Accelerated TensorFlow for Commodity Android Devices](https://nesl.github.io/RSTensorFlow/)
+1. [RSTensorFlow](https://nesl.github.io/RSTensorFlow) - GPU Accelerated TensorFlow for Commodity Android Devices.
 
 ### Web
 
-1. [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
+1. [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - Fastest DNN Execution Framework on Web Browser.
 
 ## General
 
