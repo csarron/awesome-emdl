@@ -1,4 +1,4 @@
-# EMDL
+# Awesome EMDL
 
 Embedded and mobile deep learning research notes.
 
