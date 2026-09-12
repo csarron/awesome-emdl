@@ -151,6 +151,7 @@ Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf
 1. [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
 1. [TensorFlow iOS Example](https://github.com/hollance/TensorFlow-iOS-Example)
 1. [TensorFlow OpenMV Camera Module](https://github.com/openmv/openmv)
+1. [NanoAvatar](https://github.com/wpydcr/NanoAvatar) - Generates lifelike talking avatars locally on Android, with smooth real-time lip sync and an offline recording demo.
 
 
 ### Edge / Tiny MLOps
